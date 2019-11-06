@@ -44,7 +44,7 @@
         "jest": "^24.9.0",
         "lodash": "^4.17.15",
         "lusca": "^1.6.1",
-        "mongoose": "^5.7.1",
+        "mongoose": "^5.7.5",
         "nodemailer": "^6.3.0",
         "nodemon": "^1.19.2",
         "nunjucks": "^3.2.0",
